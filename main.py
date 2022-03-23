@@ -29,21 +29,18 @@ all_values = ""
 text_value = StringVar()
 
 # Criando funções
-
 def  entrar_valores(event):
     global all_values
     all_values = all_values + str(event)
     # Passando valores para tela 
     text_value.set(all_values)
 
-# Função para calcular
 def calcular():
     global all_values
     resultado = eval(all_values)
     
     text_value.set(str(resultado))
 
-#Função para limpar tela
 def limparTela():
     global all_values
     all_values = ""
@@ -146,14 +143,4 @@ botao_18 = Button(frame_corpo, command = calcular,
 text= "=", width = 5, height = 2, bg = orangeColor, fg = whiteColor, font = ('Ivy 13 bold'), relief = RAISED, overrelief= RIDGE)
 botao_18.place(x=177, y=208)
 
-
 janela.mainloop()
-
-
-
-
-
-
-
-
-
