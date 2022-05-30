@@ -17,7 +17,7 @@
   <li>Resto</li>
 </ul>
 
-<p>Ela é simples, mas no fim do dia acaba sendo bem util, BONS CALCÚLOS</p>
+<p>Ela é simples, mas no fim do dia acaba sendo bem util, BONS CALCÚLOS!</p>
 
 <h4>Desenvolvido por Rychard Mazarin</h4>
 
