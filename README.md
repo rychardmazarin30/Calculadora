@@ -6,7 +6,7 @@
 
 <h2>Funcionalidades</h2>
 
-![calc](https://user-images.githubusercontent.com/98194579/170903088-892a0b50-4edd-4eee-8a9a-74f7aab7d951.png)![result](https://user-images.githubusercontent.com/98194579/170903100-c595957a-18c1-4d43-a371-f9a52d0214f1.png)
+![calc](https://user-images.githubusercontent.com/98194579/170903088-892a0b50-4edd-4eee-8a9a-74f7aab7d951.png) ![result](https://user-images.githubusercontent.com/98194579/170903100-c595957a-18c1-4d43-a371-f9a52d0214f1.png)
 
 <p>Operações:</p>
 <ul>
@@ -16,5 +16,9 @@
   <li>Divisão</li>
   <li>Resto</li>
 </ul>
+
+<p>Ela é simples, mas no fim do dia acaba sendo bem util, BONS CALCÚLOS</p>
+
+<h4>Desenvolvido por Rychard Mazarin</h4>
 
 
