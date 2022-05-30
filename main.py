@@ -47,7 +47,7 @@ def limpar_ultimo():
     all_values = all_values[:-1]
     text_value.set(all_values)
 
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 label_tela = Label(
         frame_tela,
