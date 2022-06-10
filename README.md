@@ -14,7 +14,7 @@
   <li>Subtração</li>
   <li>Multiplicação</li>
   <li>Divisão</li>
-  <li>Resto</li>
+  <li>Módulo</li>
 </ul>
 
 <p>Ela é simples, mas no fim do dia acaba sendo bem util, é isso, BONS CÁLCULOS!</p>
